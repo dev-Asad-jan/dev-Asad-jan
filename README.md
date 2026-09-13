@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Asad%20Ullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer%20%26%20Team%20Lead&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Asad%20Ullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer%20and%20Team%20Lead&descAlignY=55&descSize=20)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadj3400@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-asad-ullah)
