@@ -39,7 +39,7 @@ mindset: "Ship real-time features that actually work at scale."
 
 | **Dec 2024 – Present** | **Team Lead / Senior Android Developer** · Viral Mobitech, Rawalpindi<br>Leading a 4–5 dev team · Real-time features with WebRTC & Socket.IO · Location tracking & geofencing · PHP REST APIs · AdMob mediation · Full release ownership |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sep 2023 – Nov 2024** | **Android Developer** · Innovagic Technologies, Rawalpindi<br>Kotlin/Java apps in MVVM · PHP API integration · FCM push notifications · AdMob monetization |
+| **Apr 2023 – Nov 2024** | **Android Developer** · Innovagic Technologies, Rawalpindi<br>Kotlin/Java apps in MVVM · PHP API integration · FCM push notifications · AdMob monetization |
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=25&section=header&width=100%)
 
