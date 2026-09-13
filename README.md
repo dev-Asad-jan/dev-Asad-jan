@@ -1,6 +1,15 @@
-# Hi, I'm Asad Ullah 👋
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Asad%20Ullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer%20%26%20Team%20Lead&descAlignY=55&descSize=20)
 
-**Senior Android Developer & Team Lead** | Kotlin · Java · Jetpack Compose · MVVM · Clean Architecture
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Android+%7C+Kotlin+%2F+Java+%2F+MVVM;Real-time+systems+%E2%80%94+WebRTC+%26+Socket.IO;Now+learning+Spring+Boot+%2B+Angular)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-Asad-jan&label=Profile%20Views&color=2c5364&style=for-the-badge)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadj3400@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-asad-ullah)
+
+---
+
+## 🧭 About Me
 
 ```yaml
 name: Asad Ullah
@@ -15,9 +24,6 @@ focus:
 impact: "1M+ combined downloads across shipped apps"
 mindset: "Ship real-time features that actually work at scale."
 ```
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadj3400@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-asad-ullah)
 
 ---
 
@@ -49,7 +55,7 @@ mindset: "Ship real-time features that actually work at scale."
 | Duration | Role | Company |
 |---|---|---|
 | **Dec 2024 – Present** | Team Lead / Senior Android Developer | Viral Mobitech, Rawalpindi — leading a 4–5 dev team, real-time features (WebRTC, Socket.IO, location tracking), PHP REST APIs, AdMob mediation, full release ownership |
-| **Apr 2023 – Nov 2024** | Android Developer | Innovagic Technologies, Rawalpindi — Kotlin/Java apps in MVVM, PHP API integration, FCM push notifications, AdMob monetization |
+| **Sep 2023 – Nov 2024** | Android Developer | Innovagic Technologies, Rawalpindi — Kotlin/Java apps in MVVM, PHP API integration, FCM push notifications, AdMob monetization |
 
 ---
 
@@ -73,3 +79,5 @@ mindset: "Ship real-time features that actually work at scale."
 📧 **asadj3400@gmail.com** · 📍 Pakistan · 💼 [LinkedIn](https://linkedin.com/in/dev-asad-ullah)
 
 *Open to Android developer & team lead opportunities* 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer)
