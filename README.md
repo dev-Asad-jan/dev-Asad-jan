@@ -49,7 +49,7 @@ mindset: "Ship real-time features that actually work at scale."
 | Duration | Role | Company |
 |---|---|---|
 | **Dec 2024 – Present** | Team Lead / Senior Android Developer | Viral Mobitech, Rawalpindi — leading a 4–5 dev team, real-time features (WebRTC, Socket.IO, location tracking), PHP REST APIs, AdMob mediation, full release ownership |
-| **Sep 2023 – Nov 2024** | Android Developer | Innovagic Technologies, Rawalpindi — Kotlin/Java apps in MVVM, PHP API integration, FCM push notifications, AdMob monetization |
+| **Apr 2023 – Nov 2024** | Android Developer | Innovagic Technologies, Rawalpindi — Kotlin/Java apps in MVVM, PHP API integration, FCM push notifications, AdMob monetization |
 
 ---
 
